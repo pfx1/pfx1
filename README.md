@@ -32,9 +32,9 @@ Most of my work is maintained in **private repositories for client and productio
 
 ### Android Development
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat\&logo=android\&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat\&logo=androidstudio\&logoColor=white)
-![Android SDK](https://img.shields.io/badge/Android%20SDK-3DDC84?style=flat\&logo=android\&logoColor=white)
+![Android](https://img.shields.io/badge/Android-6FCF97?style=flat&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-6FCF97?style=flat&logo=androidstudio&logoColor=white)
+![Android SDK](https://img.shields.io/badge/Android%20SDK-6FCF97?style=flat&logo=android&logoColor=white)
 ![Jetpack](https://img.shields.io/badge/Jetpack-4285F4?style=flat)
 ![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=flat\&logo=materialdesign\&logoColor=white)
 
