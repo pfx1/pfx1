@@ -1,96 +1,103 @@
-# Hi 👋 I'm pfx1
+<h1 align="center">Hi 👋, I'm Faisal Naeem</h1>
+<h3 align="center">Android Engineer | Kotlin & Java | 5+ Years Experience</h3>
 
-💻 **Senior Android Developer (Kotlin / Java)**
-📱 Building scalable Android applications
-🚀 5+ years of professional experience
-
----
-
-## 👨‍💻 About Me
-
-Android developer with **5+ years of experience building native Android applications using Kotlin and Java**.
-
-I have developed and maintained multiple **production mobile applications** across different industries including:
-
-* Business directory platforms
-* Mobile gaming apps
-* Healthcare applications
-* Finance utilities
-* E-commerce & service apps
-
-Most of my work is maintained in **private repositories due to client projects**, but the experience includes full-cycle Android development from **architecture design to production deployment**.
+<p align="center">
+Experienced Android developer focused on building scalable, high-performance mobile applications.
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 About Me
+
+📱 **Android Engineer with 5+ years of experience** building production mobile applications using **Kotlin and Java**.
+
+I specialize in developing **scalable Android applications**, implementing **clean architecture**, and maintaining **large production codebases**.
+
+Most of my work is maintained in **private repositories for client and production projects**, including applications in:
+
+* Healthcare platforms
+* Business directory services
+* Mobile gaming applications
+* Finance and utility apps
+* Enterprise mobile systems
+
+---
+
+# 🛠 Tech Stack
 
 ### Languages
 
-* Kotlin
-* Java
+![Kotlin](https://img.shields.io/badge/Kotlin-orange?style=for-the-badge\&logo=kotlin)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge\&logo=java)
 
 ### Android Development
 
-* Android SDK
-* Jetpack Libraries
-* MVVM Architecture
-* REST API Integration
-* Gradle
-* Material Design
-* Background Services
-* Push Notifications
+![Android](https://img.shields.io/badge/Android-green?style=for-the-badge\&logo=android)
+![Android SDK](https://img.shields.io/badge/Android%20SDK-green?style=for-the-badge)
+![Jetpack](https://img.shields.io/badge/Jetpack-blue?style=for-the-badge)
 
-### Tools
+### Tools & Platforms
 
-* Android Studio
-* Git / GitHub
-* CI/CD workflows
-* Debugging & performance optimization
+![Android Studio](https://img.shields.io/badge/Android%20Studio-green?style=for-the-badge\&logo=androidstudio)
+![Gradle](https://img.shields.io/badge/Gradle-blue?style=for-the-badge\&logo=gradle)
+![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge\&logo=firebase)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
 
----
+### Architecture & Development
 
-## 📱 Android Development Experience
-
-Over the past **5+ years**, I have worked on several Android applications including:
-
-• **Business Directory Platform**
-Location-based business listings and discovery application.
-
-• **Healthcare Applications**
-Mobile tools for pharmacies and medical platforms.
-
-• **Mobile Games Platform**
-Android gaming apps with user interaction features.
-
-• **Finance & Utility Apps**
-Tools for calculations, utilities, and financial workflows.
-
-• **Enterprise / Admin Apps**
-Applications supporting backend systems and service platforms.
+![MVVM](https://img.shields.io/badge/MVVM-architecture-blue?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST-API-grey?style=for-the-badge)
 
 ---
 
-## 📈 What I Bring
+# 📱 Android Experience
 
-✔ 5+ years Android development experience
-✔ Strong Kotlin and Java expertise
-✔ Clean architecture & maintainable code
-✔ Experience building apps from **idea → production**
-✔ Performance optimization and debugging
-✔ API integrations and backend communication
+Over the past **5+ years**, I have developed and maintained multiple Android applications including:
+
+* **Business directory mobile platforms**
+* **Healthcare and pharmacy applications**
+* **Utility and finance tools**
+* **Mobile gaming applications**
+* **Enterprise mobile systems**
+
+My responsibilities included:
+
+* Designing **Android architecture**
+* Implementing **REST API integrations**
+* Building **scalable mobile features**
+* Debugging and performance optimization
+* Maintaining **production applications**
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pfx1\&show_icons=true)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=pfx1&show_icons=true"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pfx1\&layout=compact)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfx1&layout=compact"/>
+</p>
 
 ---
 
-## 📫 Contact
+# 🔥 Core Expertise
 
-If you're looking for an **Android Developer**, feel free to reach out.
+✔ Native Android Development
+✔ Kotlin & Java
+✔ Clean Architecture
+✔ MVVM Pattern
+✔ REST API Integration
+✔ Performance Optimization
+✔ Production App Maintenance
 
-GitHub: https://github.com/pfx1
+---
+
+# 📫 Connect
+
+💻 GitHub: https://github.com/pfx1
+
+---
+
+⭐ Passionate about building high-quality Android applications and solving real-world problems through mobile technology.
