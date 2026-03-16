@@ -27,26 +27,26 @@ Most of my work is maintained in **private repositories for client and productio
 
 ### Languages
 
-![Kotlin](https://img.shields.io/badge/Kotlin-orange?style=for-the-badge\&logo=kotlin)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge\&logo=java)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat\&logo=kotlin\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
 
-### Android Development
+### Android
 
-![Android](https://img.shields.io/badge/Android-green?style=for-the-badge\&logo=android)
-![Android SDK](https://img.shields.io/badge/Android%20SDK-green?style=for-the-badge)
-![Jetpack](https://img.shields.io/badge/Jetpack-blue?style=for-the-badge)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat\&logo=android\&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat\&logo=androidstudio\&logoColor=white)
+![Jetpack](https://img.shields.io/badge/Jetpack-4285F4?style=flat)
 
-### Tools & Platforms
+### Tools
 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-green?style=for-the-badge\&logo=androidstudio)
-![Gradle](https://img.shields.io/badge/Gradle-blue?style=for-the-badge\&logo=gradle)
-![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge\&logo=firebase)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat\&logo=gradle\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat\&logo=firebase\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
 
-### Architecture & Development
+### Architecture
 
-![MVVM](https://img.shields.io/badge/MVVM-architecture-blue?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST-API-grey?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-Architecture-blue?style=flat)
+![REST API](https://img.shields.io/badge/REST-API-grey?style=flat)
+
 
 ---
 
