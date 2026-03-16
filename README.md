@@ -30,22 +30,27 @@ Most of my work is maintained in **private repositories for client and productio
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat\&logo=kotlin\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
 
-### Android
+### Android Development
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat\&logo=android\&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat\&logo=androidstudio\&logoColor=white)
+![Android SDK](https://img.shields.io/badge/Android%20SDK-3DDC84?style=flat\&logo=android\&logoColor=white)
 ![Jetpack](https://img.shields.io/badge/Jetpack-4285F4?style=flat)
+![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=flat\&logo=materialdesign\&logoColor=white)
 
-### Tools
+### Architecture
+
+![MVVM](https://img.shields.io/badge/MVVM-Architecture-4285F4?style=flat)
+![Clean Architecture](https://img.shields.io/badge/Clean-Architecture-5C6BC0?style=flat)
+![REST API](https://img.shields.io/badge/REST-API-6E6E6E?style=flat)
+
+### Tools & Platforms
 
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat\&logo=gradle\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat\&logo=firebase\&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
 
-### Architecture
-
-![MVVM](https://img.shields.io/badge/MVVM-Architecture-blue?style=flat)
-![REST API](https://img.shields.io/badge/REST-API-grey?style=flat)
 
 
 ---
